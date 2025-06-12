@@ -127,8 +127,6 @@ function mostrarPergunta() {
     botao3.appendChild(txtopcao4);
 
 
-
-
   objPergunta.opcoes[0]
   console.log(pergunta)
 }
