@@ -152,5 +152,4 @@ function mostrarAcertou(){
 function mostrarErrou(){
   telaPergunta.style.display = "none"
   telaErrou.style.display = "block"
-  perguntaAtual--
 }
