@@ -94,3 +94,14 @@ body {
   margin-top: 50%;
   
 }
+.tela-final {
+  background: royalblue;
+  width: 100%;
+  height: 100vh;
+  text-align: center;
+}
+.final {
+  width: 70%;
+  margin-top: 40%;
+  
+}
